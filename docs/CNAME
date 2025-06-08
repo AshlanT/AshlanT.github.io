@@ -1,1 +1,43 @@
-www.055360027.com
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Profil Abdul Azzam Haythom At Thoriq</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: white;
+            padding: 2rem 3rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+            text-align: center;
+            max-width: 400px;
+        }
+        h1 {
+            color: #007acc;
+            margin-bottom: 1rem;
+        }
+        p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Profil Mahasiswa</h1>
+        <p><strong>Nama:</strong> Abdul Azzam Haythom At Thoriq</p>
+        <p><strong>NIM:</strong> 055360027</p>
+    </div>
+</body>
+</html>
